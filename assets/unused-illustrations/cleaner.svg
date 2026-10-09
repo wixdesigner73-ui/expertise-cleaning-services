@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-label="Friendly cleaning professional holding a bucket of sponges, cloths and a spray bottle">
+  <defs>
+    <clipPath id="clip"><circle cx="260" cy="280" r="215"/><rect x="0" y="0" width="520" height="372"/></clipPath>
+    <pattern id="plaid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <rect width="26" height="26" fill="#6A5470"/>
+      <rect x="0" width="9" height="26" fill="#3E3046" opacity=".55"/>
+      <rect y="0" width="26" height="9" fill="#3E3046" opacity=".55"/>
+      <rect x="17" width="2" height="26" fill="#E3B74A" opacity=".8"/>
+      <rect y="17" width="26" height="2" fill="#E3B74A" opacity=".8"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#clip)">
+    <!-- hair (back) -->
+    <path d="M205 150C196 62 340 58 334 150L354 304C320 318 222 318 188 304Z" fill="#8A4B2C"/>
+    <!-- torso -->
+    <path d="M118 560C118 404 158 330 228 312L312 312C382 330 412 404 412 560Z" fill="#A9AAB2"/>
+    <!-- neck -->
+    <path d="M246 215H290V302C290 316 246 316 246 302Z" fill="#E9AE8E"/>
+    <path d="M226 312L268 350L312 312" fill="none" stroke="#8E8F98" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- apron -->
+    <path d="M224 338H316L342 560H198Z" fill="url(#plaid)"/>
+    <path d="M224 338H316L342 560H198Z" fill="none" stroke="#F2B705" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M226 336L236 304M314 336L302 304" stroke="#F2B705" stroke-width="6" stroke-linecap="round"/>
+    <!-- right arm (viewer's right), holding bucket -->
+    <path d="M378 352L396 436" stroke="#A9AAB2" stroke-width="46" stroke-linecap="round"/>
+    <path d="M396 436L360 326" stroke="#EDB596" stroke-width="26" stroke-linecap="round"/>
+    <!-- left arm (viewer's left), pointing -->
+    <path d="M158 352L118 440" stroke="#A9AAB2" stroke-width="46" stroke-linecap="round"/>
+    <path d="M118 440L178 380" stroke="#EDB596" stroke-width="26" stroke-linecap="round"/>
+    <circle cx="188" cy="372" r="17" fill="#F3BE9F"/>
+    <path d="M192 366L238 344" stroke="#F3BE9F" stroke-width="11" stroke-linecap="round"/>
+    <!-- head -->
+    <circle cx="219" cy="186" r="9" fill="#EDB596"/>
+    <circle cx="317" cy="186" r="9" fill="#EDB596"/>
+    <ellipse cx="268" cy="178" rx="50" ry="58" fill="#F3BE9F"/>
+    <!-- hair (front) -->
+    <path d="M214 176C208 104 250 96 276 104C308 98 332 124 324 178C316 146 296 128 266 128C240 130 222 148 214 176Z" fill="#8A4B2C"/>
+    <path d="M214 176C204 214 206 262 196 300C214 292 220 250 224 206Z" fill="#8A4B2C"/>
+    <path d="M324 178C334 216 330 262 342 300C322 292 316 250 314 206Z" fill="#8A4B2C"/>
+    <!-- face -->
+    <ellipse cx="250" cy="182" rx="4.5" ry="6" fill="#3B2A25"/>
+    <ellipse cx="288" cy="182" rx="4.5" ry="6" fill="#3B2A25"/>
+    <path d="M241 168Q250 162 259 168M279 168Q288 162 297 168" stroke="#6B3A22" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M254 212Q269 226 284 212" stroke="#B5524A" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M258 212Q269 224 280 212Z" fill="#fff"/>
+    <circle cx="238" cy="203" r="8" fill="#F29C8C" opacity=".5"/>
+    <circle cx="300" cy="203" r="8" fill="#F29C8C" opacity=".5"/>
+    <!-- bucket -->
+    <path d="M350 262H482L464 372H368Z" fill="#D93A42"/>
+    <path d="M440 262H482L464 372H452Z" fill="#B52A33" opacity=".55"/>
+    <rect x="342" y="252" width="148" height="16" rx="8" fill="#B52A33"/>
+    <!-- bucket contents -->
+    <path d="M356 256C356 214 408 202 472 230L482 256Z" fill="#F06FA8"/>
+    <path d="M372 238C400 218 440 224 470 240" stroke="#D9528B" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M356 256L360 218L398 226L404 256Z" fill="#8BC53F"/>
+    <rect x="414" y="196" width="62" height="44" rx="9" transform="rotate(-10 445 218)" fill="#5DB7E8"/>
+    <g fill="#3E9AD0" opacity=".7"><circle cx="430" cy="212" r="3"/><circle cx="448" cy="206" r="3"/><circle cx="460" cy="222" r="3"/><circle cx="440" cy="228" r="3"/></g>
+    <!-- spray bottle -->
+    <rect x="384" y="186" width="42" height="72" rx="11" fill="#F4F6F8" stroke="#CFD6DC" stroke-width="2"/>
+    <rect x="391" y="206" width="28" height="30" rx="5" fill="#18B779"/>
+    <rect x="398" y="166" width="16" height="22" fill="#E34850"/>
+    <path d="M388 150H424V168H388Z" fill="#D93A42"/>
+    <rect x="422" y="154" width="22" height="8" rx="3" fill="#D93A42"/>
+    <path d="M392 150Q388 138 400 138" stroke="#D93A42" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <!-- hand on bucket -->
+    <circle cx="354" cy="272" r="17" fill="#F3BE9F"/>
+    <path d="M348 262Q366 252 380 262" stroke="#E3A584" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

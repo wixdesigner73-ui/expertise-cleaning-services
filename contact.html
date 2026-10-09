@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact Us | Expertise Cleaning Services</title>
+  <meta name="description" content="Contact Expertise Cleaning Services to discuss your cleaning needs. Call (513) 429-1779, send an email, or use our form to request a quote.">
+  <meta name="theme-color" content="#18B779">
+  <meta property="og:title" content="Contact Expertise Cleaning Services">
+  <meta property="og:description" content="Let's make your space shine. Request a cleaning quote.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&amp;family=Poppins:wght@500;600;700&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <div class="hero-bg">
+    <span class="deco deco-ring-y" aria-hidden="true"></span>
+    <span class="deco deco-ring-g" aria-hidden="true"></span>
+    <span class="deco deco-blob-g" aria-hidden="true"></span>
+    <span class="deco deco-blob-y" aria-hidden="true"></span>
+
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="logo" href="index.html" aria-label="Expertise Cleaning Services, home">
+          <img src="assets/logo-broom.svg" alt="" width="38" height="38">
+          <span class="logo-text"><strong>Expertise</strong><span>Cleaning Services</span></span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Toggle menu"><span></span></button>
+        <nav class="site-nav" id="site-nav" aria-label="Main">
+          <ul class="nav-list">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html" aria-current="page">Contact Us</a></li>
+          </ul>
+          <a class="btn btn-primary btn-sm" href="contact.html">Get a Quote</a>
+        </nav>
+      </div>
+    </header>
+
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="container hero-grid">
+        <div>
+          <p class="eyebrow">Get in Touch</p>
+          <h1 id="hero-title" class="compact">Let's Make Your Space <span class="hl">Shine</span></h1>
+          <p class="lead">Have questions or need help with your cleaning requirements? Contact Expertise Cleaning Services to discuss your needs and request a quote.</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#quote">Request a Quote</a>
+            <a class="btn btn-outline" href="tel:+15134291779">Call (513) 429-1779</a>
+          </div>
+        </div>
+        <div class="hero-art small sun photo">
+          <div class="photo-circle" style="--pos:60% 50%"><img src="assets/photos/contact-hero.jpg" width="1300" height="867" alt="Wiping down a kitchen counter with a cloth and spray cleaner"></div>
+          <span class="float-badge a" aria-hidden="true"><img src="assets/icons/phone.svg" alt=""></span>
+          <span class="float-badge b" aria-hidden="true"><img src="assets/icons/mail.svg" alt=""></span>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <main id="main">
+    <!-- Contact information -->
+    <section class="container" aria-label="Contact information">
+      <div class="info-cards">
+        <article class="info-card">
+          <div class="card-icon"><img src="assets/icons/phone.svg" alt="" width="34" height="34"></div>
+          <h3>Call Us</h3>
+          <a class="big" href="tel:+15134291779">(513) 429-1779</a>
+        </article>
+        <article class="info-card">
+          <div class="card-icon"><img src="assets/icons/mail.svg" alt="" width="34" height="34"></div>
+          <h3>Email Us</h3>
+          <a class="big" href="mailto:Everett.McDonald@yahoo.com">Everett.McDonald@yahoo.com</a>
+        </article>
+        <article class="info-card">
+          <div class="card-icon"><img src="assets/icons/star.svg" alt="" width="34" height="34"></div>
+          <h3>Find Us on Yelp</h3>
+          <p>Visit the <a href="https://www.yelp.com/biz/expertise-cleaning-service-cincinnati" target="_blank" rel="noopener noreferrer">Expertise Cleaning Service Yelp profile</a> to explore the business listing.</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Form -->
+    <section class="section" id="quote" aria-labelledby="form-title">
+      <div class="container form-wrap">
+        <div class="form-card">
+          <h2 id="form-title">Request a Cleaning Quote</h2>
+          <p>Tell us a little about your cleaning needs, and we will have the information needed to discuss your request.</p>
+          <form id="quote-form" novalidate>
+            <div class="form-grid">
+              <div class="field">
+                <label for="name">Full Name <span class="req" aria-hidden="true">*</span></label>
+                <input id="name" name="name" type="text" autocomplete="name" required aria-describedby="err-name">
+                <p class="field-error" id="err-name" role="alert"></p>
+              </div>
+              <div class="field">
+                <label for="email">Email Address <span class="req" aria-hidden="true">*</span></label>
+                <input id="email" name="email" type="email" autocomplete="email" required aria-describedby="err-email">
+                <p class="field-error" id="err-email" role="alert"></p>
+              </div>
+              <div class="field">
+                <label for="phone">Phone Number <span class="opt">(optional)</span></label>
+                <input id="phone" name="phone" type="tel" autocomplete="tel" aria-describedby="err-phone">
+                <p class="field-error" id="err-phone" role="alert"></p>
+              </div>
+              <div class="field">
+                <label for="preferred_date">Preferred Date <span class="opt">(optional)</span></label>
+                <input id="preferred_date" name="preferred_date" type="date">
+              </div>
+              <div class="field">
+                <label for="service">Cleaning Service</label>
+                <select id="service" name="service">
+                  <option>Residential Cleaning</option>
+                  <option>Commercial Cleaning</option>
+                  <option>Deep Cleaning</option>
+                  <option>Window Cleaning</option>
+                  <option selected>Other / Not Sure</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="property">Property Type</label>
+                <select id="property" name="property">
+                  <option>Home</option>
+                  <option>Business</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div class="field full">
+                <label for="message">Message <span class="req" aria-hidden="true">*</span></label>
+                <textarea id="message" name="message" required aria-describedby="err-message"></textarea>
+                <p class="field-error" id="err-message" role="alert"></p>
+              </div>
+              <div class="hp" aria-hidden="true">
+                <label for="_honey">Leave this field empty</label>
+                <input id="_honey" name="_honey" type="text" tabindex="-1" autocomplete="off">
+              </div>
+            </div>
+            <div class="form-actions">
+              <button class="btn btn-primary" type="submit">Send My Request</button>
+              <span class="form-note"><span class="req" style="color:#B3261E" aria-hidden="true">*</span> Required fields</span>
+            </div>
+            <div class="form-status" id="form-status" role="status" aria-live="polite" tabindex="-1"></div>
+          </form>
+        </div>
+        <div class="form-art">
+          <div class="photo-frame" style="--ratio:1 / 1"><img src="assets/photos/contact-side.jpg" width="1000" height="667" loading="lazy" alt="Gloved hands wiping a clean surface with a paper towel"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Closing -->
+    <section class="cta" aria-labelledby="cta-title">
+      <div class="container">
+        <div class="cta-box">
+          <img class="cta-photo l" src="assets/photos/cta-a.jpg" alt="" aria-hidden="true" width="128" height="128" loading="lazy">
+          <img class="cta-photo r" src="assets/photos/cta-b.jpg" alt="" aria-hidden="true" width="128" height="128" loading="lazy">
+          <div class="cta-content">
+            <h2 id="cta-title">A Cleaner Space <span class="hl">Starts Here</span></h2>
+            <p>Reach out to discuss your cleaning needs and take the next step toward a fresher, more comfortable environment.</p>
+            <div class="cta-actions">
+              <a class="btn btn-primary" href="tel:+15134291779">Call Now</a>
+              <a class="btn btn-outline" href="mailto:Everett.McDonald@yahoo.com">Send an Email</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="logo" href="index.html" aria-label="Expertise Cleaning Services, home">
+          <img src="assets/logo-broom.svg" alt="" width="38" height="38">
+          <span class="logo-text"><strong>Expertise</strong><span>Cleaning Services</span></span>
+        </a>
+        <p>Professional cleaning with attention to the details that make a difference.</p>
+      </div>
+      <div>
+        <h3>Quick Links</h3>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Contact Information</h3>
+        <ul>
+          <li>Phone: <a href="tel:+15134291779">(513) 429-1779</a></li>
+          <li>Email: <a href="mailto:Everett.McDonald@yahoo.com">Everett.McDonald@yahoo.com</a></li>
+          <li>Yelp: <a href="https://www.yelp.com/biz/expertise-cleaning-service-cincinnati" target="_blank" rel="noopener noreferrer">Expertise Cleaning Service</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom"><div class="container">&copy; <span data-year>2026</span> Expertise Cleaning Services. All rights reserved.</div></div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

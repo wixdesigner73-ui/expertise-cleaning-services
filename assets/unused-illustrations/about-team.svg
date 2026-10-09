@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 470" role="img" aria-label="Illustration of two cleaning professionals with a mop, cleaning supplies, a lamp, a plant and an armchair">
+  <!-- floor -->
+  <ellipse cx="280" cy="428" rx="268" ry="30" fill="#F8DCA6"/>
+  <!-- armchair -->
+  <rect x="222" y="262" width="150" height="150" rx="30" fill="#CFE6F2"/>
+  <rect x="206" y="316" width="44" height="92" rx="18" fill="#B9D8E8"/>
+  <rect x="346" y="316" width="44" height="92" rx="18" fill="#B9D8E8"/>
+  <rect x="244" y="350" width="104" height="58" rx="14" fill="#DDEFF8"/>
+  <rect x="224" y="404" width="10" height="18" rx="4" fill="#8FB4C8"/>
+  <rect x="360" y="404" width="10" height="18" rx="4" fill="#8FB4C8"/>
+  <!-- floor lamp -->
+  <rect x="402" y="96" width="7" height="324" rx="3" fill="#E7C655"/>
+  <path d="M372 96L394 28H418L440 96Z" fill="#F5D54B"/>
+  <path d="M394 28H418L424 96H402Z" fill="#F9E27F"/>
+  <ellipse cx="406" cy="424" rx="30" ry="8" fill="#E7C655"/>
+  <!-- wet floor sign -->
+  <path d="M34 424L66 330L98 424Z" fill="#F7B500"/>
+  <path d="M66 346L88 410H44Z" fill="#FFD94A"/>
+  <rect x="64" y="368" width="5" height="24" rx="2.5" fill="#3B3B3B"/>
+  <circle cx="66.500" cy="400" r="3.200" fill="#3B3B3B"/>
+  <!-- plant -->
+  <path d="M104 424L112 372H150L158 424Z" fill="#F3F6F7" stroke="#D4DDE1" stroke-width="2"/>
+  <path d="M130 376C112 340 116 300 134 270C142 310 142 346 130 376Z" fill="#4CAF6A"/>
+  <path d="M130 376C146 338 168 312 196 300C186 338 164 362 130 376Z" fill="#6CC27F"/>
+  <path d="M128 376C106 352 90 330 78 304C106 316 124 342 128 376Z" fill="#3D9A5A"/>
+  <!-- man: legs / overalls -->
+  <path d="M120 250H206L214 410H182L168 330L152 410H118Z" fill="#2E4A9E"/>
+  <path d="M112 410H152V426H108Q106 414 112 410ZM176 410H214V426H178Q172 416 176 410Z" fill="#3B3B3B"/>
+  <!-- man: torso -->
+  <path d="M116 168C116 150 134 144 162 144C190 144 210 150 210 168V262H116Z" fill="#F08BB0"/>
+  <path d="M130 200H198V262H130Z" fill="#2E4A9E"/>
+  <rect x="140" y="152" width="9" height="52" fill="#2E4A9E"/>
+  <rect x="176" y="152" width="9" height="52" fill="#2E4A9E"/>
+  <rect x="150" y="214" width="26" height="18" rx="3" fill="#25398A"/>
+  <!-- man: left arm (viewer left) down with glove -->
+  <path d="M120 164L98 232" stroke="#F08BB0" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="94" cy="248" r="14" fill="#F7C416"/>
+  <!-- man: head -->
+  <rect x="152" y="122" width="20" height="26" fill="#F0B392"/>
+  <circle cx="162" cy="102" r="30" fill="#F7C3A4"/>
+  <path d="M132 100C130 70 150 62 168 66C188 66 196 82 192 100C186 86 176 82 160 84C148 86 138 90 132 100Z" fill="#6B3B22"/>
+  <circle cx="152" cy="106" r="3.200" fill="#3B2A25"/>
+  <circle cx="176" cy="106" r="3.200" fill="#3B2A25"/>
+  <path d="M152 120Q164 130 176 120" stroke="#B5524A" stroke-width="3.500" fill="none" stroke-linecap="round"/>
+  <!-- mop -->
+  <rect x="214" y="150" width="7" height="262" rx="3.500" fill="#C9A15B"/>
+  <path d="M196 412Q217 400 238 412L244 428H190Z" fill="#9FB5C9"/>
+  <path d="M196 412L190 428M206 410L202 428M217 408V428M228 410L232 428M238 412L244 428" stroke="#7F98AF" stroke-width="2.500" stroke-linecap="round"/>
+  <!-- man: right arm holding mop -->
+  <path d="M198 168L216 228" stroke="#F08BB0" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="217" cy="240" r="14" fill="#F7C416"/>
+  <circle cx="217" cy="206" r="12" fill="#F7C416"/>
+  <!-- woman: legs -->
+  <path d="M278 300H326L322 408H298L294 352L290 408H272Z" fill="#7F63B8"/>
+  <path d="M268 408H298V424H262Q260 412 268 408ZM292 408H322V424H296Q290 414 292 408Z" fill="#4A3B7C"/>
+  <!-- woman: torso -->
+  <path d="M268 220C268 202 284 194 302 194C320 194 336 202 336 220V310H268Z" fill="#8E6BC9"/>
+  <path d="M276 244H328L340 312H264Z" fill="#2E4A9E"/>
+  <path d="M286 204L294 244M318 204L310 244" stroke="#2E4A9E" stroke-width="8" stroke-linecap="round"/>
+  <rect x="289" y="262" width="26" height="18" rx="3" fill="#25398A"/>
+  <!-- woman: head -->
+  <rect x="292" y="174" width="20" height="26" fill="#EDB596"/>
+  <path d="M274 156C268 118 294 110 306 110C328 110 342 128 336 160C332 140 316 130 304 132C290 134 280 144 274 156Z" fill="#7A2E2A"/>
+  <circle cx="318" cy="108" r="17" fill="#7A2E2A"/>
+  <circle cx="304" cy="152" r="29" fill="#F5C0A2"/>
+  <path d="M276 150C274 122 294 114 308 118C326 120 336 134 332 152C326 138 316 132 304 133C292 134 282 140 276 150Z" fill="#7A2E2A"/>
+  <circle cx="294" cy="156" r="3" fill="#3B2A25"/>
+  <circle cx="316" cy="156" r="3" fill="#3B2A25"/>
+  <path d="M296 168Q305 175 314 168" stroke="#B5524A" stroke-width="3.200" fill="none" stroke-linecap="round"/>
+  <!-- woman: arm to chin -->
+  <path d="M340 210L352 250L318 188" stroke="#8E6BC9" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="316" cy="176" r="11" fill="#F5C0A2"/>
+  <!-- woman: other arm -->
+  <path d="M272 212L262 262L286 282" stroke="#8E6BC9" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="290" cy="284" r="11" fill="#F5C0A2"/>
+  <!-- bucket + bottles (right) -->
+  <path d="M452 372H514L506 424H460Z" fill="#E3558C"/>
+  <rect x="448" y="366" width="70" height="10" rx="5" fill="#C23F73"/>
+  <rect x="470" y="318" width="22" height="52" rx="7" fill="#9B7BD6"/>
+  <rect x="475" y="304" width="12" height="16" fill="#6E4FB0"/>
+  <rect x="493" y="332" width="20" height="40" rx="6" fill="#F7C416"/>
+  <rect x="498" y="322" width="10" height="12" fill="#D9A400"/>
+  <!-- sparkles -->
+  <path d="M470 120L474 134L488 138L474 142L470 156L466 142L452 138L466 134Z" fill="#F7D94B"/>
+  <path d="M76 150L79 160L89 163L79 166L76 176L73 166L63 163L73 160Z" fill="#18B779" opacity=".8"/>
+</svg>

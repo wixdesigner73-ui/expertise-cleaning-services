@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" role="img" aria-label="Cleaning supplies: bucket with sponges and cloths, spray bottle, broom and sparkles">
+  <ellipse cx="260" cy="400" rx="230" ry="26" fill="#F8DCA6"/>
+  <!-- broom -->
+  <rect x="70" y="40" width="9" height="320" rx="4.500" fill="#C9A15B" transform="rotate(8 74 200)"/>
+  <path d="M42 346L88 330L110 396L50 406Q40 378 42 346Z" fill="#F7C416"/>
+  <path d="M52 352L56 402M66 346L68 400M80 340L82 396M94 338L96 392" stroke="#D9A400" stroke-width="3" stroke-linecap="round"/>
+  <!-- bucket -->
+  <path d="M190 220H370L348 394H212Z" fill="#D93A42"/>
+  <path d="M320 220H370L348 394H332Z" fill="#B52A33" opacity=".55"/>
+  <rect x="180" y="208" width="200" height="20" rx="10" fill="#B52A33"/>
+  <path d="M196 216C196 140 364 140 364 216" stroke="#8D8D95" stroke-width="5" fill="none"/>
+  <path d="M198 214C198 160 250 130 360 160L372 212Z" fill="#F06FA8"/>
+  <path d="M214 196C256 164 312 168 358 190" stroke="#D9528B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M200 214L206 158L256 168L262 214Z" fill="#8BC53F"/>
+  <rect x="280" y="146" width="84" height="56" rx="11" transform="rotate(-8 322 174)" fill="#5DB7E8"/>
+  <g fill="#3E9AD0" opacity=".7"><circle cx="298" cy="166" r="4"/><circle cx="322" cy="158" r="4"/><circle cx="342" cy="178" r="4"/><circle cx="312" cy="184" r="4"/></g>
+  <text x="280" y="318" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="700" fill="#fff" opacity=".9">✦</text>
+  <!-- spray bottle -->
+  <rect x="404" y="232" width="62" height="130" rx="16" fill="#F4F6F8" stroke="#CFD6DC" stroke-width="3"/>
+  <rect x="414" y="268" width="42" height="52" rx="8" fill="#18B779"/>
+  <rect x="424" y="196" width="22" height="38" fill="#E34850"/>
+  <path d="M410 172H452V198H410Z" fill="#D93A42"/>
+  <rect x="448" y="178" width="34" height="10" rx="4" fill="#D93A42"/>
+  <path d="M416 172Q408 152 428 152" stroke="#D93A42" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- sparkles -->
+  <path d="M170 70L177 94L201 101L177 108L170 132L163 108L139 101L163 94Z" fill="#F7D94B"/>
+  <path d="M420 70L425 86L441 91L425 96L420 112L415 96L399 91L415 86Z" fill="#18B779" opacity=".85"/>
+  <path d="M300 40L304 52L316 56L304 60L300 72L296 60L284 56L296 52Z" fill="#6BB5D3"/>
+  <circle cx="500" cy="190" r="9" fill="none" stroke="#F7D94B" stroke-width="4"/>
+  <circle cx="40" cy="120" r="8" fill="#BEE9D8"/>
+</svg>
